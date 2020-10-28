@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=boolean\ teilbar3()
+comment1.params=
+comment1.target=boolean\ teilbar7()
+comment2.params=maximum
+comment2.target=void\ zahlreiheAusgeben(int)
+comment3.params=
+comment3.target=int\ zahlAusgeben()
+comment4.params=
+comment4.target=void\ zahlausgeben3()
+numComments=5
